@@ -27,7 +27,7 @@ header{
     width: 100%;
     z-index: 1000;
 }
-
+/* this is section body*/
 section{
     position: relative;
     height: calc(500vh - 3rem);
